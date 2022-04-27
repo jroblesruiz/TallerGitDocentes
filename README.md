@@ -1,5 +1,6 @@
 # TallerGitDocentes
-TALLER INTRODUCCIÓN A GIT PARA DOCENTES
+
+**TALLER INTRODUCCIÓN A GIT PARA DOCENTES**
 
 1. Presentación 				              5 min
 2. Iniciando con lo básico		        30 min
