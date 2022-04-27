@@ -21,3 +21,5 @@
 5. Cierre 					                  10 min
    - ¿Qué aprendimos?
    - ¿Qué faltó?
+
+[REVISA LA PRESENTACIÓN] (https://docs.google.com/presentation/d/1LtY_w9rb38OFH0O7aAhcVFOmzvw_OxltEBkkNkPCgcU/edit?usp=sharing)
